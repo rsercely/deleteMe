@@ -12,8 +12,7 @@ DevelopTool=AQT
 
 [Actions]
 Action0=Action0\Script.mts
-Main 1=Action1\Script.mts
-Reusable 1 [reusable]=Action1\Script.mts
+Reusable 1=Action1\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
