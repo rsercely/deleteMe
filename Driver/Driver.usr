@@ -12,8 +12,10 @@ DevelopTool=AQT
 
 [Actions]
 Action0=Action0\Script.mts
-ReUse A1=Action1\Script.mts
-ReUse A2=Action2\Script.mts
+Driver A1=Action1\Script.mts
+Driver A2=Action2\Script.mts
+ReUse A1 [Reusable]=Action1\Script.mts
+ReUse A2 [Reusable]=Action2\Script.mts
 
 [VuserProfiles]
 Profiles=Default Profile
